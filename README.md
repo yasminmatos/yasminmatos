@@ -1,4 +1,4 @@
-## Oi, meu nome é Yasmin Couto e seja bem-vindo ao meu perfil!
+## Oi, meu nome é Yasmin e seja bem-vindo ao meu perfil
 <div align="center">
   <a href="https://github.com/yasminmatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminmatos&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
